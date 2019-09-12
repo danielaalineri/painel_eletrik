@@ -26,7 +26,7 @@ header.side-header.sticky {
     width: 100%;
     border-bottom-right-radius: 20%;
     border-bottom-left-radius: 20%;
-    height: 3%;
+    height: 2%;
 }
 
 
@@ -314,6 +314,12 @@ header.side-header {
 .panel-setting {
     padding: 0 20px;
 }
+
+.top-bar{
+    height: 3%;
+    border-bottom-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+}
 .top-bar > .logo {
     float: left;
     margin: 20px 0 3px;
@@ -326,6 +332,7 @@ header.side-header {
     margin: 16px 0 0;
     padding: 0;
     width: 90%;
+
 }
 .top-bar > ul > li:first-child {
     margin: 0;
