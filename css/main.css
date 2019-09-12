@@ -127,6 +127,8 @@ a{
     top: 0;
     width: 100%;
     z-index: 2147483642;
+   
+
 }
 .logo {
     float: left;
@@ -155,7 +157,7 @@ a{
     margin-right: 10px;
 }
 .menu-options {
-    color: #808891;
+    color: #0378A6;
     cursor: pointer;
     float: right;
     font-size: 18px;
