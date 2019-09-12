@@ -340,6 +340,11 @@ header.side-header {
 .top-bar > ul > li {
     margin-left: 23px;
 }
+
+.menu-options{
+
+    color: #0378A6;
+}
 .quick-links {
     padding-top: 0;
 }
