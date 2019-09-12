@@ -24,7 +24,8 @@ header.side-header.sticky {
     float: left;
     position: static;
     width: 100%;
-    border-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border-bottom-left-radius: 20%;
     height: 10%;
 }
 
